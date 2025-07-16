@@ -6,4 +6,4 @@ torchsummary
 scikit-learn
 matplotlib
 seaborn
-mediapipe 
+mediapipe==0.10.5
